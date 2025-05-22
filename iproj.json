@@ -1,0 +1,19 @@
+{
+"name": "x3270_pase",
+  "description": "x3270 for PASE",
+  "remote": {
+    "path": "/QOpenSys/grobinson_s3270/home/grobinson/src/x3270/suite3270-4.4",
+    "uploadMethod": "sftp",
+    "ignore": [
+      ".git/",
+      "node_modules/",
+      "*.obj",
+      "*.o",
+      "*.exe",
+      "*.ilk",
+      "*.pdb",
+      "*.d",
+      "run_windows*"
+    ]
+  }
+}

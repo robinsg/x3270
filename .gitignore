@@ -34,3 +34,7 @@ __pycache__
 .vs
 
 .vscode/
+!.vscode/actions.json
+.logs
+.evfevent
+.env
